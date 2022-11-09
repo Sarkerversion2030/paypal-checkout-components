@@ -1,4 +1,4 @@
-# Security Policy
+infringementreport.pdf# Security Policy
 
 At PayPal, we take security very seriously. If you have found a security bug with PayPal, we ask that you follow the below process to share security bugs with us in a responsible way. This process allows us to review and resolve the issue and keep our customers safe while providing you public recognition for the submission.
 
